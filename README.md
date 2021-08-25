@@ -31,11 +31,6 @@
 
 ## Wireframes
 
-```md
-![alt text](image path or URL)
-
-
-
 ![Tic Tac Toe Intro & Main Page](https://user-images.githubusercontent.com/56131542/130824840-b759ea8d-18f2-4de4-842e-3b5aa3c5705c.jpeg)
 
 ![Tic Tac Toe](https://user-images.githubusercontent.com/56131542/130824840-b759ea8d-18f2-4de4-842e-3b5aa3c5705c.jpeg)
